@@ -42,7 +42,7 @@ body {
   text-align: center;
   cursor: grab;
   vertical-align: middle;
-  line-height: 40px;
+  line-height: 20px;
 }
 
 .item:active {
